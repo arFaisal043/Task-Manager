@@ -1,0 +1,19 @@
+1. Project Structure
+2. Package Download
+       - npm i cookie-parser
+       - npm i cors ..
+       - npm i express ..
+       - npm i express-rate-limit ..
+       - npm i express-validation ..
+       - npm i helmet ..
+       - npm i hpp
+       - npm i jsonwebtoken ..
+       - npm i mongoose ..
+       - npm i nodemailer ..
+       - npm i nodemon
+
+3. Route Configure
+4. index.js Configure
+5. Postman Configure
+6. Email Credential Configure
+7. Declared Model Properties
